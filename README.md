@@ -1,4 +1,4 @@
-# talento_digital_fs25
+# talento_digital
 
 Repositorio de ejercicios, ejemplos y proyectos desarrollados durante el curso **Talento Digital Full Stack 25**.
 
