@@ -64,7 +64,7 @@ def eliminar_tarea(tareas):
     else:
         print("Por favor, introduce un número válido.")
         
-#Definir función.
+#Función principal que ejecuta el programa
 
 def main():
     """Función principal que ejecuta el programa."""
